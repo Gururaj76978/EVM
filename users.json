@@ -1,0 +1,26 @@
+{
+    "admin_user": {
+        "user_id": 1,
+        "username": "admin_user",
+        "password": "admin_password",
+        "role": "Admin"
+    },
+    "organizer_john": {
+        "user_id": 2,
+        "username": "organizer_john",
+        "password": "organizer_password",
+        "role": "Organizer"
+    },
+    "attendee_aarav": {
+        "user_id": 3,
+        "username": "attendee_aarav",
+        "password": "aarav_password",
+        "role": "Attendee"
+    },
+    "attendee_vivaan": {
+        "user_id": 4,
+        "username": "attendee_vivaan",
+        "password": "vivaan_password",
+        "role": "Attendee"
+    }
+}
